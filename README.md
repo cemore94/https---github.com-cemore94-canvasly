@@ -1,87 +1,125 @@
-<p align="center">
-    <img src="assets/preview.png"/>
-</p>
+# [AdminLTE - Bootstrap 4 Admin Dashboard](https://adminlte.io)
 
-Vibe is a beautiful React.js dashboard built with Bootstrap 4 and
-comes with lots of custom templates and components. It's built with Sass
-which allows you to quickly change global colors and styles.
+[![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
+[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
+[![cdn version](https://data.jsdelivr.com/v1/package/npm/admin-lte/badge)](https://www.jsdelivr.com/package/npm/admin-lte)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
-### Quick Start
+**AdminLTE** is a fully responsive administration template. Based on **[Bootstrap 4.6](https://getbootstrap.com/)** framework and also the JS/jQuery plugin.
+Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
-- Install dependencies by running `yarn` or `npm install`.
-- Run `yarn start` or `npm run start` to start the local dev server.
+**Preview on [AdminLTE.io](https://adminlte.io/themes/v3)**
 
-### Reporting Issues
+## Looking for Premium Templates?
 
-Report any issues you may find with Vibe on the github
-issues tab. I will get an update to you as soon as possible. Feel free
-to open a pull request and I will review and merge.
+AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
+prices. Visit <https://adminlte.io/premium> for more information.
+
+!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
+
+**AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
+SCSS has been used to increase code customizability.
+
+## Quick start
+There are multiple ways to install AdminLTE.
+
+### Download & Changelog:
+Always Recommended to download from GitHub latest release [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE/releases/latest) for bug free and latest features.\
+Visit the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) page to view the changelog.\
+Legacy Releases are [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18) / [AdminLTE 1](https://github.com/ColorlibHQ/AdminLTE/releases/tag/1.3.1).
+
+## Stable release
+### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:
+_**Important Note**: You needed to add separately cdn links for plugins in your project._
+```html
+<script src="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/js/adminlte.min.js"></script>
+```
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/css/adminlte.min.css">
+```
+### Using The Command Line:
+_**Important Note**: To install it via npm/Yarn, you need at least Node.js 10 or higher._
+#### Via npm
+```bash
+npm install admin-lte@^3.1 --save
+```
+#### Via Yarn
+```bash
+yarn add admin-lte@^3.1
+```
+#### Via Composer
+```bash
+composer require "almasaeed2010/adminlte=~3.1"
+```
+#### Via Git
+```bash
+git clone https://github.com/ColorlibHQ/AdminLTE.git
+```
+
+## Unstable release
+### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:
+_**Important Note**: You needed to add separately cdn links for plugins in your project._
+```html
+<script src="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/js/adminlte.min.js"></script>
+```
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/css/adminlte.min.css">
+```
+### Using The Command Line:
+_**Important Note**: To install it via npm/Yarn, you need at least Node.js 10 or higher._
+#### Via npm
+```bash
+npm install admin-lte@^3.1.0 --save
+```
+#### Via Yarn
+```bash
+yarn add admin-lte@^3.1.0
+```
+#### Via Composer
+```bash
+composer require "almasaeed2010/adminlte=~3.1.0"
+```
+#### Via Git
+```bash
+git clone https://github.com/ColorlibHQ/AdminLTE.git
+```
 
 ## Documentation
 
-Vibe is based on [Create React App](https://create-react-app.dev/). Follow the documentation there for an introduction of the development environment.
+Visit the [online documentation](https://adminlte.io/docs/3.1/) for the most
+updated guide. Information will be added on a weekly basis.
 
-### Modifying the layout
+## Browsers support
 
-The basic dashboard layout is defined in `./src/views/layouts/DashboardLayout.js`. You can modify parts of the layout with the following code:
+| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari-ios/safari-ios_48x48.png" alt="iOS Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>iOS Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png" alt="Samsung" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Samsung | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png" alt="Vivaldi" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Vivaldi | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Electron |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
 
-Part | Modification
---- | ---
-CSS | Sass files can be found in `./src/vibe/scss`. Update `./src/vibe/scss/components/vars.scss` to change global styles.
-Responsivity | Configure the switch between mobile and desktop layout with the constant `MOBILE_SIZE`
-Logo | Change file `./src/assets/images/vibe-logo.svg` or import a different `Logo`
-Chat | Enable/Disable it by default by setting the initial state of `showChat1`
-Header | Change function component `HeaderNav`.
-Footer | Change the `<Footer>` part in the `render()` function of DashboardLayout.
-Menu | See below.
+### Compile dist files
 
-### Creating a new page
+To compile the dist files you need Node.js/npm, clone/download the repo then:
 
-1. Create your page as component in the folder `./src/views/pages`. (You can actually create these components anywhere you wish, this is just a recommendation.)
-1. Add your component to the `pageList` array in `./src/views/index.js`.
-1. Call it by opening the route you've chosen.
+1. `npm install` (install npm deps)
+2. _Optional:_ `npm run dev` (developer mode, autocompile with browsersync support for live demo)
+3. `npm run production` (compile css/js files)
 
-Key | Value
---- | ---
-`component` | Your component name
-`name` | The display name in the top bar (`Header`) of the dashboard
-`route` | Route of this page, using the [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start) syntax
-`exact` | (Optional) Set to true if you want to match this route exactly. See [Routes documentation](https://reacttraining.com/react-router/web/api/Route/exact-bool) for details.
 
-See below for how to use Bootstrap components to design your page content.
+## Contributing
 
-### Creating a menu entry
+Please read through our [contributing guidelines](https://github.com/ColorlibHQ/AdminLTE/tree/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-All pages are accessible by their routes, but only pages manually added to `./src/_nav.js` show up on the sidebar menu.
+Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
-There are two menus available to fill: `top` and `bottom`.
 
-Every top level menu entry can either be a top level button or a folder with a single level of child entries.
+## License
 
-Key | Value
---- | ---
-`name` | Display name of the menu entry
-`icon` | (Optional) Icon prefixed to the display name. The correct item gets autoloaded by Vibe. ([react-feather](https://www.npmjs.com/package/react-feather) is used for icons.
-`url` | (Optional) Either a relative URL to the target page or an absolute URL to an external page (For linked menu entries. Make sure relative URLs start with a slash, i.e. `/home`)
-`external` | (Optional) Set to `true` if the `url` points to an external page.
-`target` | (Optional) Set to `_blank` if you want the link to an external page to open in a new window.
-`children` | (Optional) Child entries as array (For folder menu entries)
-`divider` | (Optional) Inserts a visual divider if set to true (Use this instead of a menu entry)
+AdminLTE is an open source project by [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](https://opensource.org/licenses/MIT).
+AdminLTE.io reserves the right to change the license of future releases.
 
-*Note:* If you wish menus to be expanded by default, you have to change the initial state of `open` in `./src/vibe/components/SidebarNav/components/NavDropdownItem.js`.
+## Image Credits
 
-### Using Bootstrap / reactstrap
-
-Vibe is using the Bootstrap-for-React library [reactstrap](https://reactstrap.github.io/). Follow the [components documentation](https://reactstrap.github.io/components/) for using them in a Vibe Dashboard.
-
-Note that Vibe overwrites the default Bootstrap styles in `./src/vibe/scss/components/`.
-
-Custom Vibe components are in the `./src/vibe/components/` directory.
-
-### Using Feather icons
-
-Vibe is using [react-feather](https://www.npmjs.com/package/react-feather) for its icons.
-
-A nice overview over all available icons can be found on <https://feathericons.com/>.
-
-*Note:* In order to use a Feather icon in react, convert the name to camel case. (I.e. `alert-circle` becomes `AlertCircle`).
+- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
+- [Graphicsfuel](https://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
+- [Pickaface](https://pickaface.net/)
+- [Unsplash](https://unsplash.com/)
+- [Uifaces](http://uifaces.com/)
