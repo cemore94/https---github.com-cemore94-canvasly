@@ -71,18 +71,27 @@
                   </tr>
                   </thead>
                   <tbody>
-                    <tr><td>Piura, gardenias</td><td>C</td><td>onda onda</td><td>this is a message1</td><td>mapstyle 4</td><td>down right</td><td>frame</td><td>no</td><td>36x48</td></tr>
-                    <tr><td>Arequipa, planicies</td><td>D</td><td>raspadillaaaaaa</td><td>this is a message5</td><td>mapstyle 1</td><td>up right</td><td>canvas</td><td>no</td><td>18x24</td></tr>
-                    <tr><td>Arequipa, gardenias</td><td>D</td><td>tarara</td><td>this is a message3</td><td>mapstyle 3</td><td>up left</td><td>canvas</td><td>yes</td><td>36x48</td></tr>
-                    <tr><td>Arequipa, alturas</td><td>C</td><td>tarara</td><td>this is a message3</td><td>mapstyle 5</td><td>up left</td><td>frame</td><td>no</td><td>18x24</td></tr>
-                    <tr><td>Junin, gardenias</td><td>A</td><td>chocolate</td><td>this is a message4</td><td>mapstyle 3</td><td>up right</td><td>canvas</td><td>no</td><td>24x36</td></tr>
-                    <tr><td>Junin, gardenias</td><td>A</td><td>tarara</td><td>this is a message1</td><td>mapstyle 4</td><td>down right</td><td>poster</td><td>yes</td><td>18x24</td></tr>
-                    <tr><td>Junin, heroes</td><td>D</td><td>sila sisas</td><td>this is a message4</td><td>mapstyle 3</td><td>down left</td><td>frame</td><td>no</td><td>24x36</td></tr>
-                    <tr><td>Junin, alturas</td><td>D</td><td>sila sisas</td><td>this is a message2</td><td>mapstyle 2</td><td>down left</td><td>canvas</td><td>yes</td><td>36x48</td></tr>
-                    <tr><td>Arequipa, alicios</td><td>C</td><td>tarara</td><td>this is a message4</td><td>mapstyle 3</td><td>down right</td><td>frame</td><td>yes</td><td>36x48</td></tr>
-                    <tr><td>Arequipa, alicios</td><td>B</td><td>chocolate</td><td>this is a message3</td><td>mapstyle 3</td><td>up left</td><td>frame</td><td>yes</td><td>18x24</td></tr>
-                    <tr><td>Tacna, alicios</td><td>A</td><td>sila sisas</td><td>this is a message2</td><td>mapstyle 3</td><td>up right</td><td>poster</td><td>no</td><td>24x36</td></tr>
-                    <tr><td>Piura, heroes</td><td>A</td><td>sila sisas</td><td>this is a message4</td><td>mapstyle 3</td><td>up left</td><td>canvas</td><td>yes</td><td>24x36</td></tr>
+                    <tr><td>Piura, planicies</td><td>C</td><td>chocolate</td><td>this is a message3</td><td>mapstyle 2</td><td>down left</td><td>canvas</td><td>yes</td><td>18x24</td></tr>
+                    <tr><td>Arequipa, gardenias</td><td>E</td><td>tarara</td><td>this is a message2</td><td>mapstyle 1</td><td>down right</td><td>poster</td><td>yes</td><td>18x24</td></tr>
+                    <tr><td>Piura, gardenias</td><td>E</td><td>tarara</td><td>this is a message3</td><td>mapstyle 1</td><td>up right</td><td>poster</td><td>yes</td><td>18x24</td></tr>
+                    <tr><td>Junin, gardenias</td><td>C</td><td>onda onda</td><td>this is a message3</td><td>mapstyle 3</td><td>down left</td><td>poster</td><td>no</td><td>24x36</td></tr>
+                    <tr><td>Junin, gardenias</td><td>D</td><td>sila sisas</td><td>this is a message2</td><td>mapstyle 1</td><td>down left</td><td>canvas</td><td>yes</td><td>36x48</td></tr>
+                    <tr><td>Arequipa, planicies</td><td>D</td><td>tarara</td><td>this is a message4</td><td>mapstyle 3</td><td>up right</td><td>frame</td><td>yes</td><td>24x36</td></tr>
+                    <tr><td>Tacna, alicios</td><td>C</td><td>sila sisas</td><td>this is a message1</td><td>mapstyle 4</td><td>up left</td><td>poster</td><td>no</td><td>24x36</td></tr>
+                    <tr><td>Tacna, alicios</td><td>C</td><td>chocolate</td><td>this is a message4</td><td>mapstyle 3</td><td>up right</td><td>canvas</td><td>no</td><td>24x36</td></tr>
+                    <tr><td>Junin, gardenias</td><td>C</td><td>sila sisas</td><td>this is a message4</td><td>mapstyle 1</td><td>down left</td><td>canvas</td><td>no</td><td>24x36</td></tr>
+                    <tr><td>Moquegua, alturas</td><td>E</td><td>raspadillaaaaaa</td><td>this is a message3</td><td>mapstyle 4</td><td>down left</td><td>canvas</td><td>no</td><td>18x24</td></tr>
+                    <tr><td>Junin, heroes</td><td>B</td><td>sila sisas</td><td>this is a message3</td><td>mapstyle 5</td><td>down right</td><td>frame</td><td>yes</td><td>24x36</td></tr>
+                    <tr><td>Moquegua, gardenias</td><td>E</td><td>onda onda</td><td>this is a message2</td><td>mapstyle 3</td><td>up left</td><td>canvas</td><td>yes</td><td>36x48</td></tr>
+                    <tr><td>Tacna, alturas</td><td>B</td><td>chocolate</td><td>this is a message4</td><td>mapstyle 5</td><td>up left</td><td>frame</td><td>no</td><td>36x48</td></tr>
+                    <tr><td>Moquegua, gardenias</td><td>D</td><td>tarara</td><td>this is a message5</td><td>mapstyle 1</td><td>down left</td><td>frame</td><td>no</td><td>24x36</td></tr>
+                    <tr><td>Moquegua, alturas</td><td>B</td><td>tarara</td><td>this is a message3</td><td>mapstyle 4</td><td>up left</td><td>poster</td><td>yes</td><td>18x24</td></tr>
+                    <tr><td>Piura, alturas</td><td>A</td><td>tarara</td><td>this is a message1</td><td>mapstyle 5</td><td>up right</td><td>canvas</td><td>no</td><td>18x24</td></tr>
+                    <tr><td>Tacna, alturas</td><td>E</td><td>sila sisas</td><td>this is a message4</td><td>mapstyle 3</td><td>up right</td><td>canvas</td><td>no</td><td>18x24</td></tr>
+                    <tr><td>Moquegua, gardenias</td><td>B</td><td>tarara</td><td>this is a message3</td><td>mapstyle 3</td><td>up right</td><td>canvas</td><td>yes</td><td>24x36</td></tr>
+                    <tr><td>Arequipa, gardenias</td><td>E</td><td>onda onda</td><td>this is a message2</td><td>mapstyle 3</td><td>up left</td><td>frame</td><td>no</td><td>36x48</td></tr>
+                    <tr><td>Junin, gardenias</td><td>E</td><td>raspadillaaaaaa</td><td>this is a message2</td><td>mapstyle 2</td><td>up left</td><td>frame</td><td>yes</td><td>36x48</td></tr>
+                    <tr><td>Piura, gardenias</td><td>B</td><td>raspadillaaaaaa</td><td>this is a message1</td><td>mapstyle 2</td><td>down right</td><td>canvas</td><td>yes</td><td>36x48</td></tr>
                   </tbody>
                   <tfoot>
                   <tr>
@@ -152,11 +161,26 @@
 <script>
   $(function () {
 
+    //$arr = $("div.dropdown-menu a.active");
+    //for($i = 0; $i < $arr.length; $i++){
+        //console.log("-->"+$arr[$i].attributes[4].value);
+    //}
+
     $('#example1').DataTable({
         "responsive": true, 
         "lengthChange": false, 
         "autoWidth": false,
-        "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"],
+        "buttons": ["copy",
+                    "csv", 
+                    "excel", 
+                    {
+                        extend: 'pdfHtml5',
+                        exportOptions: {
+                        columns: [ 0, 4, 5, 8 ]
+                    }
+                    },
+                    "print", 
+                    "colvis"],
         "paging": true,
         "lengthChange": false,
         "searching": false,
